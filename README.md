@@ -1,6 +1,6 @@
  # Hi, I’m @Busayomesele
  
- ### I work as a data analyst. My role involves diving into datasets to uncover insights that help businesses make informed decisions. Whether it's crunching numbers, creating visualizations, or finding patterns in data, I'm passionate about translating information into actionable strategies."
+ #### I work as a data analyst. My role involves diving into datasets to uncover insights that help businesses make informed decisions. Whether it's crunching numbers, creating visualizations, or finding patterns in data, I'm passionate about translating information into actionable strategies."
  
 ## As a data analyst, I'm always looking to collaborate on projects that involve leveraging data to solve complex problems, optimize processes, or drive decision-making. I’d love to work with teams on:
 - Building interactive dashboards and reports to make data more accessible.
