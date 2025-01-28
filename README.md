@@ -14,10 +14,8 @@
 # How to Reach Me
 I’m always open to connecting and collaborating on data-driven projects or discussing opportunities to solve complex problems with data. You can reach me through:
 
-+ Email: busayomesele@gmail.com – Feel free to send me a message for any inquiries, collaborations, or brainstorming sessions.
-+ LinkedIn: https://www.linkedin.com/feed/ – Let’s connect and explore how we can work together.
-+ Portfolio/Website: [Your Portfolio/Website URL] – Check out some of my work and ongoing projects.
-+ GitHub: [Your GitHub URL] – I share some of my data analysis projects and code repositories here.
-  
++ [Email](busayomesele@gmail.com) – Feel free to send me a message for any inquiries, collaborations, or brainstorming sessions.
++ [LinkedIn](www.linkedin.com/in/mesele-oluwabusayomi-243586a3) – Let’s connect and explore how we can work together.
+   
 #### I’d love to hear from you, whether you have a specific project in mind or just want to discuss ideas about data and analytics!
 ###### he/him
